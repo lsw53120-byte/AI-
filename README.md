@@ -43,5 +43,7 @@ python -m PyInstaller --noconfirm --clean BloggerAutoStudio.spec
 ```
 
 빌드 결과물은 `dist` 폴더에 생성됩니다. `dist`와 EXE는 소스 저장소에 커밋하지 말고, 배포가 필요하면 GitHub Releases에 별도로 첨부하세요.
-https://github.com/lsw53120-byte/AI-/releases/download/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4/AI.exe
+## 다운로드
+
+[Windows용 AI 블로그 오토 스튜디오 다운로드](https://github.com/lsw53120-byte/AI-/releases/download/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4/AI.exe)
 
