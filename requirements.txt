@@ -1,0 +1,9 @@
+streamlit
+Pillow
+pyperclip
+google-genai
+requests
+google-auth
+google-auth-oauthlib
+google-api-python-client
+
